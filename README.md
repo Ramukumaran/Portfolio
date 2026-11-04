@@ -2,7 +2,7 @@
 
 A clean, mobile-friendly portfolio built with plain HTML, CSS and a little JavaScript (no frameworks). It showcases my data analytics projects with a case study for each: problem, data, method, key insights and visuals.
 
-**Live site:** https://ramukumaran.github.io/portfolio/ *(update this link after you deploy)*
+**Live site:** https://ramukumaran.github.io/Portfolio/ *(update this link after you deploy)*
 
 ## Projects
 
